@@ -69,4 +69,4 @@ if st.button("Calculate CGPA"):
         st.error("Please ensure total credit hours are greater than 0.")
 
 st.markdown("---")
-st.caption("Developed by Syeda Rafia Gilani 💻 | Streamlit GPA & CGPA Calculator")
+st.caption("Developed by Muhammad Wasil 💻 | Streamlit GPA & CGPA Calculator")
